@@ -25,7 +25,7 @@
 			<div class="col-md-10 col-md-offset-1">
 				<div class="panel panel-default text-center">
         			<p style="text-align: justify; margin: 15px">TEXTO EXPLICATIVO DE ESTO QUE ESTAMOS HACIENDO</p>
-         			<p style="text-align: right; margin: 15px"><b>Secretario General U.S.I.M.R.A.</b></p>
+         			<p style="text-align: right; margin: 15px"><b>FIRMANTE.</b></p>
 				</div>
 			</div>
 			<div class="col-md-4 col-md-offset-1">

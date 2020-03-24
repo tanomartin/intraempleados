@@ -22,7 +22,6 @@
 					<h4 class="heading-desc">Disculpe las molestias ocasionadas </h4>
 				</div>
 			</form>
-			<?php include_once ("footer.php"); ?>
 		</div>
 	</div>
 </body>

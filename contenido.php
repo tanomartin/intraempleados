@@ -1,9 +1,9 @@
 <?php include ("verificaSesion.php"); 
 
 $id = $_SESSION['id'];
-$sql = "SELECT * FROM usuarios WHERE id = $id";
+$sql = "SELECT * FROM emails WHERE idusuario = $id";
 $result = mysql_query($sql,$db);
-$row = mysql_fetch_assoc($result); ?>
+$cant = mysql_num_rows($result); ?>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -39,11 +39,14 @@ $row = mysql_fetch_assoc($result); ?>
 					</p>
 					<div class="panel panel-default">
 						<div class="panel-body">
-						<?php if ($row['email'] != "") { ?>
-            				<h4 style="margin-top: -4px">Su información de acceso es la siguiente</h4>
-            				<b>Dirección de correo electrónico: <font color="blue"><?php echo $row['email'] ?></font></b><br>
-            				<b>Contraseña: <font color="blue"><?php echo $row['claveemail'] ?></font></b>
-            			<?php } else { ?>
+						<?php if ($cant > 0) {   ?>
+						    <h4 style="margin-top: -4px">Su información de acceso a la/s cuentas</h4>					    
+						<?php   while ($row = mysql_fetch_assoc($result)) {  ?>
+                					<hr>
+                					<b>Dirección de correo electrónico: <font color="blue"><?php echo $row['email'] ?></font></b><br>
+                					<b>Contraseña: <font color="blue"><?php echo $row['clave'] ?></font></b>
+                	      <?php }
+            			      } else { ?>
             			    	<h4>Usted no posee correo electronico asignado para acceder</h4>
             			<?php } ?>
     					</div>

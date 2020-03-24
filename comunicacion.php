@@ -1,9 +1,4 @@
-<?php include ("verificaSesion.php"); 
-
-$id = $_SESSION['id'];
-$sql = "SELECT * FROM usuarios WHERE id = $id";
-$result = mysql_query($sql,$db);
-$row = mysql_fetch_assoc($result); ?>
+<?php include ("verificaSesion.php");  ?>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -25,7 +20,7 @@ $row = mysql_fetch_assoc($result); ?>
 			<?php include_once ("navbar.php"); ?>
 			
 			<h2 class="page-header">
-				<i style="font-size: 50px" class="glyphicon glyphicon-tasks"></i><br>CONTENIDO
+				<i style="font-size: 50px" class="glyphicon glyphicon-info-sign"></i><br>CONTENIDO
 			</h2>
 			
 			<div class="row" style="margin: 15px">
