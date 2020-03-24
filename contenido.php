@@ -32,10 +32,10 @@ $cant = mysql_num_rows($result); ?>
     			<div class="col-md-6">
     				<h3 style="margin-top: -4px">Uso del correo electrónico a través de web mail</h3>
     				<p align="justify">
-    					A continuación usted encontrara la información para poder acceder a su correo electrónico de autorizaciones a través de web mail. 
-    					Usted debe ingresar al siguiente link <a href="http://www.ospim.com.ar/webmail" target="_blank">www.ospim.com.ar/webmail.</a> 
-    					Han sido reiniciadas todas las contraseñas para centralizar su uso exclusivamente a traves de webmail.<br> 
-						A continuacion los datos para su acceso.
+    				   A continuación encontrarás la información para poder acceder a tus correos electrónicos a través de web mail. <br>
+    				   - Si el dominio de tus cuentas es <b>@ospim.com.ar</b>, debes ingresar al siguiente link: <a href="http://www.ospim.com.ar/webmail" target="_blank">www.ospim.com.ar/webmail</a>.<br> 
+    				   - Si el dominio de tus cuentas es <b>@usimra.com.ar</b>, debes ingresar al siguiente link: <a href="http://www.usimra.com.ar/webmail" target="_blank">www.usimra.com.ar/webmail</a>.<br> 
+					   A continuación los datos para acceder.
 					</p>
 					<div class="panel panel-default">
 						<div class="panel-body">

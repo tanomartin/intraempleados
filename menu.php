@@ -20,7 +20,9 @@
 			<?php include_once ("navbar.php"); ?>
 			
 			<h2 class="page-header" style="color: blue">
-				CANAL DE COMUNICACION INSTITUCIONAL
+				ESCRITORIO DE TRABAJO A DISTANCIA <br> 
+				O.S.P.I.M. <br> 
+				<font color="brown">U.S.I.M.R.A. </font>
 			</h2>
 			<div class="col-md-10 col-md-offset-1">
 				<div class="panel panel-default text-center">
