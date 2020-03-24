@@ -20,7 +20,7 @@
 			<?php include_once ("navbar.php"); ?>
 			
 			<h2 class="page-header">
-				<i style="font-size: 50px" class="glyphicon glyphicon-info-sign"></i><br>CONTENIDO
+				<i style="font-size: 50px" class="glyphicon glyphicon-info-sign"></i><br>COMUNICACIONES
 			</h2>
 			
 			<div class="row" style="margin: 15px">

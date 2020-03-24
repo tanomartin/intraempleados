@@ -27,7 +27,7 @@ $row = mysql_fetch_assoc($result);?>
 			<?php include_once ("navbar.php"); ?>
 			
 			<h2 class="page-header">
-				<i style="font-size: 50px" class="glyphicon glyphicon glyphicon-user"></i><br>INFOMRACION USUARIO
+				<i style="font-size: 50px" class="glyphicon glyphicon glyphicon-user"></i><br>INFORMACION USUARIO
 			</h2>
 			
 			<div class="row" style="margin: 15px">
