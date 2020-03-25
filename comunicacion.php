@@ -34,7 +34,8 @@
         				<div class="panel-body" style="text-align: justify;">
                             Este escritorio de trabajo a distancia, es un espacio pensado, diseñado e implementado como un 
                             instrumento que posibilite apoyar la organización del trabajo desde el hogar a cada uno de los 
-                            empleados de la U.S.I.M.R.A y la O.S.P.I.M. Inicialmente está compuesto por  un modulo de comunicaciones, 
+                            empleados de la U.S.I.M.R.A y la O.S.P.I.M. <br>
+                            Inicialmente está compuesto por  un modulo de comunicaciones, 
                             que permitirá publicar comunicados de índole institucional y posibilitara comunicaciones interpersonales 
                             y/o intergrupales de carácter laboral, y un modulo de contenidos técnicos-informativos, 
                             con el fin de dar soporte a todos los empleados usuarios  en el uso de las herramientas 
