@@ -27,7 +27,6 @@ $resDepartamentos = mysql_query($sqlDepartamentos,$db);
 			<h2 class="page-header">
 				<i style="font-size: 50px" class="glyphicon glyphicon-envelope"></i><br>NUEVO MENSAJES
 			</h2>
-			<h4><span id="divMensajeOK" style="color: green; display: none" class="clearfix">Mensaje enviado con exito</span></h4>
 			<h4><span id="divMensajeNOOK" style="color: red;  display: none" class="clearfix">Error al enviar el mensaje</span></h4>	
 			<form id="form_nuevo_mensaje" style="max-width: 600px">
 				<label for="tipo">Tipo de Mensaje</label>
@@ -91,7 +90,7 @@ $resDepartamentos = mysql_query($sqlDepartamentos,$db);
 		$.post("mensaje.nuevo.guardar.php", {tipo : tipo, destino: destino, mensaje: mensaje}, function(data) {
 			console.log(data);
 			if (data == 1) {
-				$("#divMensajeOK").css("display", "block");
+				$(location).attr('href',"mensajes.php");
 			} else {
 				$("#divMensajeNOOK").css("display", "block");
 			}
