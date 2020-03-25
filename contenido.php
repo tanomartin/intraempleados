@@ -52,8 +52,7 @@ $cant = mysql_num_rows($result); ?>
     					</div>
     				</div>
     				<p align="justify">
-    					A la derecha de la pantalla encontrará un video explicativo que muestra como acceder al correo electrónico
-    					a través del web mail paso a paso
+    					A la derecha de la pantalla te dejamos un video explicativo que te muestra, paso a paso, como acceder a tus correos electrónicos a través del web mail.
     				</p>
     				
     			</div>

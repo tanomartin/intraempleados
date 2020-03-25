@@ -26,8 +26,16 @@
 			</h2>
 			<div class="col-md-10 col-md-offset-1">
 				<div class="panel panel-default text-center">
-        			<p style="text-align: justify; margin: 15px">TEXTO EXPLICATIVO DE ESTO QUE ESTAMOS HACIENDO</p>
-         			<p style="text-align: right; margin: 15px"><b>FIRMANTE.</b></p>
+					<p style="text-align: justify; margin: 15px">Por intermedio de esta aplicación estamos intentando crear un espacio de intercambio comunicacional y de trabajo colaborativo, entre los distintos componentes de la gestión administrativa de la U.S.I.M.R.A. y la O.S.P.I.M.<br>
+					Los acontecimientos en que nos coloca la actual crisis sanitaria, y de acuerdo con la necesidad relacionada al cuidado de la salud y el compromiso asumido en la lucha contra la propagación del COVID19, 
+					nos pone ante el desafío de afrontar el esfuerzo de generar herramientas tecnológicas con la máxima creatividad y con el objetivo primordial de cuidar a todas las personas que dan vida a ambas organizaciones.<br> 
+					La U.S.I.M.R.A. y la O.S.P.I.M. somos todos: beneficiarios, empleados y directivos. Cuidemos a cada uno de ellos, para cuidarnos a cada uno de nosotros.<br>
+					Cuidémonos entre todos.</p>
+         			<p style="text-align: right; margin: 15px">
+         				<b>Secretariado Nacional U.S.I.M.R.A.<br>
+         				   Consejo Directivo O.S.P.I.M.
+         				</b>
+         			</p>
 				</div>
 			</div>
 			<div class="col-md-4 col-md-offset-1">

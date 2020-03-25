@@ -28,14 +28,14 @@
     				<div class="panel panel-default text-center">
 						<div class="panel-heading">
 							<h2 class="panel-title">
-								<b>Comunicado XX - XX/XX/XXXX</b>
+								<b>Sin comunicaciones al momento</b>
 							</h2>
         				</div>
-        				<div class="panel-body" style="text-align: justify;">
+        			<!-- 	<div class="panel-body" style="text-align: justify;">
                             TEXTO
                             
                             <p style="text-align: right; margin: 15px"><b>FIRMANTE 1<br>DPTOS</b></p>
-                        </div>
+                        </div> -->
                      </div>
 				</div>
 			</div>	
