@@ -9,6 +9,7 @@ if (isset($_POST['usuario']) && isset($_POST['pass'])) {
 	if ($cant > 0) {
 		$row = mysql_fetch_assoc($result);
 		$_SESSION['id'] = $row['id'];
+		$_SESSION['dpto'] = $row['departamento'];
 		$_SESSION['fechaultimoacceso'] = $row['fechaultimoacceso'];
 		$_SESSION['nombre'] = $row['nombre'];
 		

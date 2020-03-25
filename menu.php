@@ -15,7 +15,7 @@
 
 <body>
 	<div class="container">
-		<div class="row" align="center" style="background-color: #f5f5f5;">
+		<div class="row" align="center" style="background-color: #f5f5f5">
 			
 			<?php include_once ("navbar.php"); ?>
 			
@@ -38,32 +38,45 @@
          			</p>
 				</div>
 			</div>
-			<div class="col-md-4 col-md-offset-1">
-					<div class="panel panel-default text-center">
-						<div class="panel-heading">
-							<h3 class="panel-title">Comunicaciones</h3>
-						</div>
-						<div class="panel-body">
-							<i style="font-size: 100px"  class="glyphicon glyphicon-info-sign"></i>
-						</div>
-						<ul class="list-group">
-							<li class="list-group-item"><a href="comunicacion.php" class="btn btn-primary">Ingresar</a></li>
-						</ul>
+			<div class="col-md-4">
+				<div class="panel panel-default text-center">
+					<div class="panel-heading">
+						<h3 class="panel-title">Comunicaciones</h3>
 					</div>
+					<div class="panel-body">
+						<i style="font-size: 100px"  class="glyphicon glyphicon-info-sign"></i>
+					</div>
+					<ul class="list-group">
+						<li class="list-group-item"><a href="comunicacion.php" class="btn btn-primary">Ingresar</a></li>
+					</ul>
 				</div>
-			 	<div class="col-md-4 col-md-offset-2">
-					<div class="panel panel-default text-center">
-						<div class="panel-heading">
-							<h3 class="panel-title">Contenido</h3>
-						</div>
-						<div class="panel-body">
-							<i style="font-size: 100px"  class="glyphicon glyphicon-tasks"></i>
-						</div>
-						<ul class="list-group">
-							<li class="list-group-item"><a href="contenido.php" class="btn btn-primary">Ingresar</a></li>
-						</ul>
+			</div>
+			<div class="col-md-4">
+				<div class="panel panel-default text-center">
+					<div class="panel-heading">
+						<h3 class="panel-title">Mensajes</h3>
 					</div>
-				</div> 
+					<div class="panel-body">
+						<i style="font-size: 100px"  class="glyphicon glyphicon-envelope"></i>
+					</div>
+					<ul class="list-group">
+						<li class="list-group-item"><a href="mensajes.php" class="btn btn-primary">Ingresar</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="panel panel-default text-center">
+					<div class="panel-heading">
+						<h3 class="panel-title">Contenido</h3>
+					</div>
+					<div class="panel-body">
+						<i style="font-size: 100px"  class="glyphicon glyphicon-tasks"></i>
+					</div>
+					<ul class="list-group">
+						<li class="list-group-item"><a href="contenido.php" class="btn btn-primary">Ingresar</a></li>
+					</ul>
+				</div>
+			</div> 
 			<?php include_once ("footer.php"); ?>
 		</div>
 	</div>

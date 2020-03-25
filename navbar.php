@@ -8,6 +8,7 @@
 	</div>
 	<ul class="nav navbar-nav navbar-left" style="margin-top: 5px">
 		<li><a href="comunicacion.php">COMUNICACIONES</a></li>
+		<li><a href="mensajes.php">MENSAJES</a></li>
 		<li><a href="contenido.php">CONTENIDO</a></li>
 		<li><a href="infousuario.php">INFO. USUARIO</a></li>
 	</ul>
