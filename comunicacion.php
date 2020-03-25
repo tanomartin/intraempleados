@@ -28,14 +28,21 @@
     				<div class="panel panel-default text-center">
 						<div class="panel-heading">
 							<h2 class="panel-title">
-								<b>Sin comunicaciones al momento</b>
+								<b>COMUNICADO 1 | 25/03/2020</b>
 							</h2>
         				</div>
-        			<!-- 	<div class="panel-body" style="text-align: justify;">
-                            TEXTO
-                            
-                            <p style="text-align: right; margin: 15px"><b>FIRMANTE 1<br>DPTOS</b></p>
-                        </div> -->
+        				<div class="panel-body" style="text-align: justify;">
+                            Este escritorio de trabajo a distancia, es un espacio pensado, diseñado e implementado como un 
+                            instrumento que posibilite apoyar la organización del trabajo desde el hogar a cada uno de los 
+                            empleados de la U.S.I.M.R.A y la O.S.P.I.M. Inicialmente está compuesto por  un modulo de comunicaciones, 
+                            que permitirá publicar comunicados de índole institucional y posibilitara comunicaciones interpersonales 
+                            y/o intergrupales de carácter laboral, y un modulo de contenidos técnicos-informativos, 
+                            con el fin de dar soporte a todos los empleados usuarios  en el uso de las herramientas 
+                            tecnológicas que apuntalaran el desarrollo de las tareas. <br>
+                            Este espacio estará en permanente actualización agregando nuevas y mejores funcionalidades, 
+                            que serán oportuna y debidamente informadas.
+                            <p style="text-align: right; margin: 15px"><b>Depto. de Sistemas<br>U.S.I.M.R.A. | O.S.P.I.M.</b></p>
+                        </div>
                      </div>
 				</div>
 			</div>	

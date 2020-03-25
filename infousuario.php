@@ -59,7 +59,7 @@ $row = mysql_fetch_assoc($result);?>
 					<div class="panel panel-default text-center">
 						<div class="panel-heading">
 							<h2 class="panel-title">
-								<b>Nombre PC</b>
+								<b>Nombre PC Trabajo</b>
 							</h2>
         				</div>
         				<div class="panel-body" style="text-align: center;">
