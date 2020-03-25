@@ -24,6 +24,26 @@
 			</h2>
 			
 			<div class="row" style="margin: 15px">
+				<div class="col-md-12">
+    				<div class="panel panel-default text-center">
+						<div class="panel-heading">
+							<h2 class="panel-title">
+								<b>COMUNICADO 2 | 25/03/2020</b>
+							</h2>
+        				</div>
+        				<div class="panel-body" style="text-align: justify;">
+                            En modo aclaratorio, les informamos que los empleados que ya tenían configurado los accesos remotos para 
+                            desarrollar las tareas de trabajo a distancia, previamente a la declaración de aislamiento social, 
+                            continúan en la misma situación tal cual lo establecido oportunamente.<br> 
+                            Quienes todavía no tiene la posibilidad de acceder remotamente a sus computadoras del trabajo, 
+                            serán paulatinamente incorporados a esa modalidad y serán oportunamente informados de tal situación.<br>
+                            Les pedimos que tengan la paciencia que la situación actual requiere.<br>
+							Cuidemonos entre todos!!!
+                            <p style="text-align: right; margin: 15px"><b>Depto. de Sistemas<br>U.S.I.M.R.A. | O.S.P.I.M.</b></p>
+                        </div>
+                     </div>
+				</div>
+			
     			<div class="col-md-12">
     				<div class="panel panel-default text-center">
 						<div class="panel-heading">
