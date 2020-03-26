@@ -77,21 +77,17 @@ $cant = mysql_num_rows($result); ?>
                         La implementación del escritorio remoto, implica el acometer acciones en los dos extremos de la cadena de trabajo a distancia, un extremo es 
                         tu computadora en el trabajo y el otro tu computadora personal en tu casa. <br>
                         Ambas acciones requieren de la presencia física para ejecutarlas; del primer extremo de la cadena de conexión (tu computadora en tu oficina del trabajo) se va 
-                        a encargar el depto. de sistemas, para lo cual te contactaremos a través de un mensaje electrónico por WhatsApp. Para el segundo extremo (tu computadora personal en tu casa), vamos a apelar a tu 
-                        predisposición para que acometas la acción de instalación vos mismo. 
+                        a encargar el depto. de sistemas, para lo cual te contactaremos a través de un mensaje electrónico por WhatsApp. <br>
+                        Para el segundo extremo (tu computadora personal en tu casa), vamos a apelar a tu predisposición para que acometas la acción de instalación vos mismo. 
                         No te asustes!!! Es muy sencillo y solo te vamos a pedir que cubras una mínima instancia de todo el procedimiento, hasta el punto en que nosotros podamos 
                         tomar el control remoto para terminar de cubrir todo el procedimiento de configuración y puesta en marcha. <br>
                         <b>Es importante que entiendas que NO TENES QUE HACER NADA hasta que nosotros te contactemos vía WhatsApp.</b><br>
                         Estamos trabajando sin descanso para acercarte soluciones y que puedas resolver tus tareas laborales. <br>
                         Te pedimos paciencia y respeto de las formalidades que te estamos comunicando.<br>
                         Cuidémonos entre todos!!!<br>
+                        A la izquierda de la pantalla te dejamos un video explicativo que te muestra, paso a paso, como realizar la instalación.
 					</p>
-    				<p align="justify">
-    					
-    				</p>
-    				
-    			</div>
-														  
+    			</div>								  
 			</div>
 			<?php include_once ("footer.php"); ?>
 		</div>
