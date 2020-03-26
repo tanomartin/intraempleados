@@ -60,7 +60,27 @@ $cant = mysql_num_rows($result); ?>
                   	<video width="100%" controls>
                       <source src="files/videos/webmail.mp4" type="video/mp4">
                     </video>
-                </div>															  
+                </div>														  
+			</div>
+			<hr>
+			<div class="row" style="margin: 15px">
+				<div class="col-md-6">
+                  	<video width="100%" controls>
+                      <source src="files/videos/instateam.mp4" type="video/mp4">
+                    </video>
+                </div>	
+			
+    			<div class="col-md-6">
+    				<h3 style="margin-top: -4px">Instalacion de Teamweaver (escritorio remoto)</h3>
+    				<p align="justify">
+    				   TEXTO EXLICATIVO
+					</p>
+    				<p align="justify">
+    					A la izquierda de la pantalla te dejamos un video explicativo que te muestra, paso a paso, como realizar la instalación.
+    				</p>
+    				
+    			</div>
+														  
 			</div>
 			<?php include_once ("footer.php"); ?>
 		</div>
