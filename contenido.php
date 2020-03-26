@@ -29,8 +29,8 @@ $cant = mysql_num_rows($result); ?>
 			</h2>
 			
 			<div class="row" style="margin: 15px">
+    			<h3 style="margin-top: -4px">Uso del correo electrónico a través de web mail</h3>
     			<div class="col-md-6">
-    				<h3 style="margin-top: -4px">Uso del correo electrónico a través de web mail</h3>
     				<p align="justify">
     				   A continuación encontrarás la información para poder acceder a tus correos electrónicos a través de web mail. <br>
     				   - Si el dominio de tus cuentas es <b>@ospim.com.ar</b>, debes ingresar al siguiente link: <a href="http://www.ospim.com.ar/webmail" target="_blank">www.ospim.com.ar/webmail</a>.<br> 
@@ -64,19 +64,30 @@ $cant = mysql_num_rows($result); ?>
 			</div>
 			<hr>
 			<div class="row" style="margin: 15px">
+				<h3 style="margin-top: -4px">Instalacion de Teamweaver (escritorio remoto)</h3>
 				<div class="col-md-6">
                   	<video width="100%" controls>
                       <source src="files/videos/instateam.mp4" type="video/mp4">
                     </video>
                 </div>	
-			
     			<div class="col-md-6">
-    				<h3 style="margin-top: -4px">Instalacion de Teamweaver (escritorio remoto)</h3>
     				<p align="justify">
-    				   TEXTO EXLICATIVO
+    				    Teamviewer es un programa de escritorio remoto, con el cual tendrás la posibilidad de ejecutar tus tareas de trabajo a distancia, 
+                        en forma natural y transparente, como si estuvieras sentado delante de tu computadora en el trabajo.<br>
+                        La implementación del escritorio remoto, implica el acometer acciones en los dos extremos de la cadena de trabajo a distancia, un extremo es 
+                        tu computadora en el trabajo y el otro tu computadora personal en tu casa. <br>
+                        Ambas acciones requieren de la presencia física para ejecutarlas; del primer extremo de la cadena de conexión (tu computadora en tu oficina del trabajo) se va 
+                        a encargar el depto. de sistemas, para lo cual te contactaremos a través de un mensaje electrónico por WhatsApp. Para el segundo extremo (tu computadora personal en tu casa), vamos a apelar a tu 
+                        predisposición para que acometas la acción de instalación vos mismo. 
+                        No te asustes!!! Es muy sencillo y solo te vamos a pedir que cubras una mínima instancia de todo el procedimiento, hasta el punto en que nosotros podamos 
+                        tomar el control remoto para terminar de cubrir todo el procedimiento de configuración y puesta en marcha. <br>
+                        <b>Es importante que entiendas que NO TENES QUE HACER NADA hasta que nosotros te contactemos vía WhatsApp.</b><br>
+                        Estamos trabajando sin descanso para acercarte soluciones y que puedas resolver tus tareas laborales. <br>
+                        Te pedimos paciencia y respeto de las formalidades que te estamos comunicando.<br>
+                        Cuidémonos entre todos!!!<br>
 					</p>
     				<p align="justify">
-    					A la izquierda de la pantalla te dejamos un video explicativo que te muestra, paso a paso, como realizar la instalación.
+    					
     				</p>
     				
     			</div>
