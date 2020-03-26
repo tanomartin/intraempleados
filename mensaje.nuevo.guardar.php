@@ -2,7 +2,7 @@
 
 $tipo = $_POST['tipo'];
 $destino = $_POST['destino'];
-$mensaje = $_POST['mensaje'];
+$mensaje = preg_replace('([^A-Za-z0-9 ])', '', $_POST['mensaje']);
 $creador = $_SESSION['id'];
 $insertMensaje = "INSERT INTO mensajes VALUES(DEFAULT,$tipo,$destino,'$mensaje',$creador,CURRENT_TIMESTAMP())";
 try {
