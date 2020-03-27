@@ -55,7 +55,7 @@ $cant = mysql_num_rows($result); ?>
     				</p>
 				</div>
 			</div>
-			
+			<hr>
 			<div class="row" style="margin: 15px">
     			<h3>Uso del correo electrónico a través de web mail</h3>
     			<div class="col-md-6">
