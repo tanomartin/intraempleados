@@ -29,7 +29,35 @@ $cant = mysql_num_rows($result); ?>
 			</h2>
 			
 			<div class="row" style="margin: 15px">
-    			<h3 style="margin-top: -4px">Uso del correo electrónico a través de web mail</h3>
+    			<h3>Eliminación de correos electrónicos en web mail (¡¡¡IMPORTANTE!!!)</h3>
+    			<div class="col-md-6">
+                  	<video width="100%" controls>
+                      <source src="files/videos/eliminamail.mp4" type="video/mp4">
+                    </video>
+                </div>	
+    			<div class="col-md-6">
+    				<p align="justify">
+    					Con el objetivo de optimizar y controlar el tráfico digital que las actuales circunstancias están generando, 
+                        en relación al volumen de uso de dispositivos electrónicos y herramientas de comunicaciones, 
+                        estamos recomendando que se le preste especial atención a los tiempos muertos que se generan en las conexiones 
+                        establecidas en la modalidad de trabajo a distancia y especialmente en el uso de los correos electrónicos vía web mail.<br>
+                        Si estás trabajando y en algún momento atendes otra tarea, no dejes tu conexión abierta, cerrala tal cual como te aconsejamos 
+                        oportunamente hasta que retomes tu trabajo; esto es posible de hacer sin inconvenientes tantas veces como lo requieras. <br>
+                        Además, toma como regla, eliminar los mensajes de correo electrónico que consideres ya atendidos y  que no te sirvan para 
+                        continuar desarrollando una tarea posterior; esto cuenta tanto para los emails nuevos que estas recibiendo, 
+                        como para aquellos que ya tenias almacenados con anterioridad. <br>
+                        De esta forma estamos colaborando con mantener operativa nuestra propia infraestructura de acceso remoto y 
+                        la red global de comunicaciones de índole nacional, y optimizamos el uso de los recursos digitales. <br>
+                        Gracias por atender este consejo.
+    				</p>
+    				<p align="justify">
+    					A la izquierda de la pantalla te dejamos un video explicativo que te muestra, paso a paso, como eliminar los correos electrónicos a través del web mail.
+    				</p>
+				</div>
+			</div>
+			
+			<div class="row" style="margin: 15px">
+    			<h3>Uso del correo electrónico a través de web mail</h3>
     			<div class="col-md-6">
     				<p align="justify">
     				   A continuación encontrarás la información para poder acceder a tus correos electrónicos a través de web mail. <br>
@@ -64,7 +92,7 @@ $cant = mysql_num_rows($result); ?>
 			</div>
 			<hr>
 			<div class="row" style="margin: 15px">
-				<h3 style="margin-top: -4px">Instalacion de Teamweaver (escritorio remoto)</h3>
+				<h3>Instalacion de Teamweaver (escritorio remoto)</h3>
 				<div class="col-md-6">
                   	<video width="100%" controls>
                       <source src="files/videos/instateam.mp4" type="video/mp4">
