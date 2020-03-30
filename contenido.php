@@ -29,6 +29,23 @@ $cant = mysql_num_rows($result); ?>
 			</h2>
 			
 			<div class="row" style="margin: 15px">
+    			<h3>Nuevo Módulo de mensajes</h3>
+    			<div class="col-md-6">
+    				<p align="justify">
+    					Se puso en funcionamiento un nuevo modulo dentro de la Intranet de Empleados para enviar mensajes laborales.<br>
+    					En el mismo usted podrá enviar mensajes a otros usuarios (mensajes individuales), 
+    					a un departamento completo o un mensaje general para todos los usuarios.<br>
+    					Se pide por favor utilizarlo sólo para mensajes laborales, los mismos quedaran guardados en nuestra base de datos. <br> 
+    					Este módulo ira actualizandose, agregando mejoras al mismo, las cuales serán informadas por este medio.<br> 
+    					Cualquier inconveniente o mal funcionamiento que encuentre en este nuevo módulo, por favor comunicarla al departamento de sistemas.
+    				</p>
+				</div>
+				<div class="col-md-6">
+                  	<img class="img-responsive" src="images/mensajes.png"/>
+                </div>	
+			</div>
+			<hr>
+			<div class="row" style="margin: 15px">
     			<h3>Eliminación de correos electrónicos en web mail (¡¡¡IMPORTANTE!!!)</h3>
     			<div class="col-md-6">
                   	<video width="100%" controls>
