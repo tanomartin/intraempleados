@@ -16,7 +16,7 @@ if ($canRecibido > 0) {
     }
 }
 
-$sqlEnviados = "SELECT m.*, DATE_FORMAT(m.fecha,'%d/%m/%Y %h:%i:%s') as fecha, u.nombre as nombrecreador, 
+$sqlEnviados = "SELECT m.*, DATE_FORMAT(m.fecha,'%d/%m/%Y %H:%i:%s') as fecha, u.nombre as nombrecreador, 
                        departamentos.nombre as depart, 
                        usuarios.nombre as usuario
                     FROM usuarios u, mensajes m
