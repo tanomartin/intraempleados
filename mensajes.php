@@ -3,7 +3,7 @@
 $id = $_SESSION['id'];
 $iddpto = $_SESSION['dpto'];
 $mensajes = array();
-$sqlRecibido = "SELECT m.*, DATE_FORMAT(m.fecha,'%d/%m/%Y %h:%i:%s') as fecha, u.nombre as nombrecreador
+$sqlRecibido = "SELECT m.*, DATE_FORMAT(m.fecha,'%d/%m/%Y %H:%i:%s') as fecha, u.nombre as nombrecreador
                     FROM mensajes m, usuarios u 
                     WHERE ((tipo = 0) or (tipo = 1 and iddestino = $id) or (tipo = 2 and iddestino = $iddpto)) and
                           m.creador = u.id";
