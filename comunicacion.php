@@ -28,6 +28,24 @@
     				<div class="panel panel-default text-center">
 						<div class="panel-heading">
 							<h2 class="panel-title">
+								<b>COMUNICADO 3 | 08/04/2020</b>
+							</h2>
+        				</div>
+        				<div class="panel-body" style="text-align: justify;">
+                            Las autoridades de la <b>OSPIM</b> y la <b>USIMRA</b> en estos dramáticos momentos que vivimos, quiere hacer llegar a todos 
+                            los hogares y exhortarlos a mantener la fe cristiana y la confianza en que perseverando, disciplinados y unidos 
+                            vamos a superar éste flagelo.<br>
+							Por ello, la <b>OSPIM</b> y la <b>USIMRA</b> desean a todos/as sus empleados/as puedan pasar estas pascuas unidos y fortalecidos 
+							en la familia deseando aún dentro de estos momentos tan difíciles, la felicidad de las mejores pascuas posibles.
+                            <p style="text-align: right; margin: 15px"><b>Consejo Directivo O.S.P.I.M.<br>Secretariado Nacional U.S.I.M.R.A.</b></p>
+                        </div>
+                     </div>
+				</div>
+			
+				<div class="col-md-12">
+    				<div class="panel panel-default text-center">
+						<div class="panel-heading">
+							<h2 class="panel-title">
 								<b>COMUNICADO 2 | 25/03/2020</b>
 							</h2>
         				</div>
