@@ -28,7 +28,7 @@
     				<div class="panel panel-default text-center">
 						<div class="panel-heading">
 							<h2 class="panel-title">
-								<b>Comunicado 4 - PREVENCION CONTRA EL CORONAVIRUS - 08/04/2020</b>
+								<b>Comunicado 4 - PREVENCION CONTRA EL CORONAVIRUS - 13/04/2020</b>
 							</h2>
         				</div>
         				<div class="panel-body" style="text-align: justify;">
