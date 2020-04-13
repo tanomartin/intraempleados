@@ -24,7 +24,7 @@
 				O.S.P.I.M. <br> 
 				<font color="brown">U.S.I.M.R.A. </font>
 			</h2>
-			<div class="col-md-10 col-md-offset-1">
+			<div class="col-md-12">
 				<div class="panel panel-default text-center">
 					<p style="text-align: justify; margin: 15px">Por intermedio de esta aplicación estamos intentando crear un espacio de intercambio comunicacional y de trabajo colaborativo, entre los distintos componentes de la gestión administrativa de la U.S.I.M.R.A. y la O.S.P.I.M.<br>
 					Los acontecimientos en que nos coloca la actual crisis sanitaria, y de acuerdo con la necesidad relacionada al cuidado de la salud y el compromiso asumido en la lucha contra la propagación del COVID19, 
