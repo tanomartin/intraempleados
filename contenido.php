@@ -29,6 +29,33 @@ $cant = mysql_num_rows($result); ?>
 			</h2>
 			
 			<div class="row" style="margin: 15px">
+    			<h3>Guardado e Importanción de correos electronicos en web mail</h3>
+    			<div class="col-md-6">
+                  	<video width="100%" controls>
+                      <source src="files/videos/guardaremail.mp4" type="video/mp4">
+                    </video>
+                </div>	
+    			<div class="col-md-6">
+    				<p align="justify">
+    					Para poder resguardar los mensajes de correo electrónico que sean necesarios, los mismos 
+    					se pueden guardar en tu computadora local en formato ".eml", 
+    					en este archivo se resguarda toda la información del correo electrónico, su contenido, el remitente, 
+    					archivos adjuntos, fecha de recepción.<br>
+						Un vez resguardado hay que eliminar el mensaje de la bandeja de entrada y de la papelera de 
+						reciclaje, como se muestra en otra entrada de esta página, para poder liberar espacio en el servidor.<br>
+						En el caso que se necesite que el mensaje de correo electrónico vuelva a estar en la bandeja de entrada 
+						para su utilización a través de web mail, se puede importar el mismo a través del mismo webmail. 
+    				</p>
+    				<p align="justify">
+    					A la izquierda de la pantalla te dejamos un video explicativo que te muestra, paso a paso, 
+    					como guardar un mensaje de correo electrónico y su posterior importación.
+    				</p>
+				</div>
+				
+			</div>
+			<hr>
+			
+			<div class="row" style="margin: 15px">
     			<h3>Nuevo Módulo de mensajes</h3>
     			<div class="col-md-6">
     				<p align="justify">
