@@ -29,7 +29,7 @@ $cant = mysql_num_rows($result); ?>
 			</h2>
 			
 			<div class="row" style="margin: 15px">
-    			<h3>Guardado e Importanción de correos electronicos en web mail</h3>
+    			<h3>Guardado e Importación de correos electronicos en web mail</h3>
     			<div class="col-md-6">
                   	<video width="100%" controls>
                       <source src="files/videos/guardaremail.mp4" type="video/mp4">
